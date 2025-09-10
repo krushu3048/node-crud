@@ -1,0 +1,23 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "This is node CRUD operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krushu3048/node-crud.git"
+  },
+  "author": "Krushnal Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krushu3048/node-crud/issues"
+  },
+  "homepage": "https://github.com/krushu3048/node-crud#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
